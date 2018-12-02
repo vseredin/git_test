@@ -1,2 +1,2 @@
 # git_test
-# Владимир Середин 165
+# Vladimir Seredin 165
